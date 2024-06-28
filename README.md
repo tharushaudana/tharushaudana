@@ -86,7 +86,7 @@
 <p align="center">Welcome to my profile! I'm excited to have you here. I'm passionate about development and always eager to learn and grow alongside the developer community. Explore my journey, and let's connect to share knowledge and experiences.</p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60"></a>
+  <a href="https://www.buymeacoffee.com/tharushaudana" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60"></a>
 </p>
 
 <p align="center"> 
