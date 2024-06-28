@@ -73,8 +73,8 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushaudana&show_icons=true&hide_border=true&theme=radical" alt="yourusername's GitHub Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushaudana&layout=compact&theme=radical" alt="yourusername's Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushaudana&show_icons=true&hide_border=true&theme=radical" alt="tharushaudana's GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushaudana&layout=compact&theme=radical" alt="tharushaudana's Top Languages">
 </p>
 
 <p align="center">
