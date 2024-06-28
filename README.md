@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 -->
 
-![Header](./images/header-image.png)
+![Header](./images/header03.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Developer+and+Designer;a+Solution+Builder;I+love+coding+and+collaboration!" alt="Typing SVG">
