@@ -85,12 +85,11 @@
 
 <p align="center">Welcome to my profile! I'm excited to have you here. I'm passionate about development and always eager to learn and grow alongside the developer community. Explore my journey, and let's connect to share knowledge and experiences.</p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tharushaudana" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60"></a>
-</p>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tharushaudana&label=Profile%20views&color=0e75b6&style=flat" alt="tharushaudana" /> 
   <img src="https://img.shields.io/github/followers/tharushaudana?style=social" alt="tharushaudana" />
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tharushaudana" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60"></a>
+</p>
