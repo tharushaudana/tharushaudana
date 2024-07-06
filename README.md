@@ -82,6 +82,10 @@
 </p>
 
 <p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=tharushaudana&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="tharushaudana's Contributions">
+</p>
+
+<p align="center">
   <img src="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Typing SVG">
 </p>
 
